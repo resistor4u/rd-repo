@@ -1,7 +1,7 @@
-Origin: Teggers Repo
-Label: Teggers Repo
+Origin: resistor4u Repo
+Label: resistor4u Repo
 Suite: stable
 Version: 1.1
 Architecture: iphoneos-arm
 Components: main
-Description: Teggers Repo
+Description: resistor4u Repo
